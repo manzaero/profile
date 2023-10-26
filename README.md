@@ -1,4 +1,4 @@
-### Hi there 👋, я Мансур
+### Привет 👋, я Мансур
 #### Я фронтэнд разработчик.
 ![Я фронтэнд разработчик.](https://blog.vverh.digital/wp-content/uploads/2022/11/LaravelVueViteSSR.png)
 
@@ -6,8 +6,8 @@
 
 Skills: VUE JS / REACT / JS / HTML / CSS / LARAVEL
 
-- 🔭 I’m currently working on https://github.com/manzaero/react_sneaker 
-- 🌱 I’m currently learning React JS 
+- 🔭 работаю над проектом https://github.com/manzaero/react_sneaker 
+- 🌱 и учу React JS 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/manzaero)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail-dot-ru.svg' alt='mail-dot-ru' height='40'>](manzaero@mail.ru)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/manzaero)  
